@@ -1,0 +1,54 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+/* 
+Font Family Code
+font-family: 'Merienda', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif; */
+
+
+body {
+  padding-top: 3.5rem;
+}
+
+.container1 {
+  position: relative;
+}
+
+li {
+  font-size: 1.2rem;
+}
+
+h1 {
+  color: white;
+  text-shadow: 0px 0px 15px #000000, 0px 0px 15px #000000;
+  padding-top: 50px;
+  font-family: 'Merienda', cursive;
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: white;
+  font-size: 2.5rem;
+  
+}
+
+.location-box {
+  text-align: center;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+
+.location-btn {
+  padding-top: 20px;
+}
+
+/* .location-img {
+  
+} */
+
